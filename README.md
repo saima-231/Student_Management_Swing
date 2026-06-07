@@ -1,1 +1,1 @@
-A java project to built a student management system.
+A Java project to built a student management system.
